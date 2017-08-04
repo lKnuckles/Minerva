@@ -1,0 +1,7 @@
+*.exe
+/src/Daemons/Channel/obj/*
+/src/Daemons/Login/obj/*
+/src/Daemons/Master/obj/*
+/src/Database/MySQL/obj/*
+/src/ObjectBuddy/obj/*
+/bin/*
